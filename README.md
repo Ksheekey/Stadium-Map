@@ -7,7 +7,7 @@ Pages deployment:
 
 https://ksheekey.github.io/Stadium-Map/
 
-The goal here was to map the stadiums for the 5 major sports. Hockey(NHL), Football(NFL), Baseball(MLB), Soccer(MLS), Basketball(NBA), and Nascar(NASCAR).
+The goal here was to map the stadiums and tracks for Hockey(NHL), Football(NFL), Baseball(MLB), Soccer(MLS), Basketball(NBA), and Nascar(NASCAR).
 
 They are all put together in one map with the ability to filter by the sports you want to view. You can even change the base layer of the map. Each has a tooltip with its team name, address, and arena name. 
 
