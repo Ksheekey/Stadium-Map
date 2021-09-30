@@ -1,7 +1,11 @@
 # Stadiums-Map
 Map of Stadiums
 
-https://ksheekey.github.io/Map-of-Stadiums/
+You will need a Mapbox API key entered into the config.js in order to see the map.
+
+Pages deployment:
+
+https://ksheekey.github.io/Stadium-Map/
 
 The goal here was to map the stadiums for the 5 major sports. Hockey(NHL), Football(NFL), Baseball(MLB), Soccer(MLS), and Basketball(NBA).
 

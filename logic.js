@@ -27,7 +27,8 @@ d3.json("./arenaInfo.json").then(function (data) {
         NFL: new L.LayerGroup(),
         MLB: new L.LayerGroup(),
         MLS: new L.LayerGroup(),
-        NBA: new L.LayerGroup()
+        NBA: new L.LayerGroup(),
+        NASCAR: new L.LayerGroup()
     };
 
     // Only one base layer can be shown at a time
@@ -46,7 +47,8 @@ d3.json("./arenaInfo.json").then(function (data) {
             layers.NFL,
             layers.MLB,
             layers.MLS,
-            layers.NBA
+            layers.NBA,
+            layers.NASCAR
         ]
     });
 
@@ -58,7 +60,8 @@ d3.json("./arenaInfo.json").then(function (data) {
         "NFL": layers.NFL,
         "MLB": layers.MLB,
         "MLS": layers.MLS,
-        "NBA": layers.NBA
+        "NBA": layers.NBA,
+        "NASCAR": layers.NASCAR
     };
 
     // Pass our map layers into our layer control
@@ -118,6 +121,14 @@ d3.json("./arenaInfo.json").then(function (data) {
             iconAnchor: [22, 94],
             shadowAnchor: [4, 62],
             popupAnchor: [-3, -76]
+        }),
+        NASCAR: L.icon({
+            iconUrl: 'https://m.nascar.com/wp-content/uploads/sites/7/2020/01/NASCAR_Barmark_Logo-1-2-1.svg',
+            iconSize: [55, 95],
+            shadowSize: [50, 64],
+            iconAnchor: [22, 94],
+            shadowAnchor: [4, 62],
+            popupAnchor: [-3, -76]
         })
     };
 
@@ -126,7 +137,8 @@ d3.json("./arenaInfo.json").then(function (data) {
         NFL: 0,
         MLB: 0,
         MLS: 0,
-        NBA: 0
+        NBA: 0,
+        NASCAR: 0
     };
 
     var sportCode;
@@ -147,6 +159,9 @@ d3.json("./arenaInfo.json").then(function (data) {
         else if (data[k].sport == "NBA") {
             sportCode = "NBA";
         }
+        else if (data[k].sport == "NASCAR") {
+            sportCode = "NASCAR";
+        }
 
         sportCount[sportCode]++;
 
@@ -156,8 +171,12 @@ d3.json("./arenaInfo.json").then(function (data) {
 
         newMarker.addTo(layers[sportCode]);
 
-        newMarker.bindPopup(data[k].sport + " : " + data[k].team + "<hr>" + "<br> Arena: " + data[k].arena + "<br> Address: " + data[k].address);
-
+        if (data[k].sport != "NASCAR") {
+            newMarker.bindPopup(data[k].sport + " : " + data[k].team + "<hr>" + "<br> Arena: " + data[k].arena + "<br> Address: " + data[k].address);
+        }
+        else {
+            newMarker.bindPopup(data[k].sport + "<hr>" + "<br> Address: " + data[k].address);
+        }
     };
 
     document.querySelector(".legend").innerHTML = [
@@ -165,7 +184,8 @@ d3.json("./arenaInfo.json").then(function (data) {
         "<p class='nfl'>NFL: " + "<img width=35 height=35 src=https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.svg>" + "</p>",
         "<p class='mlb'>MLB: " + "<img width=35 height=35 src=https://www.mlbstatic.com/team-logos/league-on-dark/1.svg>" + "</p>",
         "<p class='mls'>MLS: " + "<img width=35 height=35 src=https://images.mlssoccer.com/image/upload/v1594889391/assets/crest/MLS-Crest-FullColor.svg>" + "</p>",
-        "<p class='nba'>NBA: " + "<img width=35 height=35 src=https://cdn.nba.com/logos/leagues/logo-nba.svg>" + "</p>"
+        "<p class='nba'>NBA: " + "<img width=35 height=35 src=https://cdn.nba.com/logos/leagues/logo-nba.svg>" + "</p>",
+        "<p class='nascar'>NASCAR: " + "<img width=35 height=35 src=https://m.nascar.com/wp-content/uploads/sites/7/2020/01/NASCAR_Barmark_Logo-1-2-1.svg>" + "</p>"
     ].join("");
 
 });

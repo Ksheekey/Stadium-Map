@@ -1,1 +1,1726 @@
-[{"team": "Tampa Bay Lightning", "location": [27.9427373, -82.4517771], "address": "401 Channelside Dr, Tampa, FL 33602, USA", "arena": "Amalie Arena", "sport": "NHL"}, {"team": "Dallas Stars", "location": [32.7903908, -96.8102547], "address": "2500 Victory Ave, Dallas, TX 75219, USA", "arena": "American Airlines Center", "sport": "NHL"}, {"team": "Colorado Avalanche", "location": [39.7486565, -105.0076028], "address": "1000 Chopper Cir, Denver, CO 80204, USA", "arena": "Ball Arena", "sport": "NHL"}, {"team": "Florida Panthers", "location": [26.1584958, -80.3255204], "address": "1 Panther Pkwy, Sunrise, FL 33323, USA", "arena": "BB&T Center", "sport": "NHL"}, {"team": "Montreal Canadiens", "location": [45.4960667, -73.5693153], "address": "1909 Av. des Canadiens-de-Montr\u00e9al, Montr\u00e9al, QC H3B 5E8, Canada", "arena": "Bell Centre", "sport": "NHL"}, {"team": "Nashville Predators", "location": [36.1591736, -86.7784959], "address": "501 Broadway, Nashville, TN 37203, USA", "arena": "Bridgestone Arena", "sport": "NHL"}, {"team": "Winnipeg Jets", "location": [49.8926443, -97.14376240000001], "address": "345 Graham Ave, Winnipeg, MB R3C 5S6, Canada", "arena": "Canada Life Centre", "sport": "NHL"}, {"team": "Ottawa Senators", "location": [45.2969151, -75.926823], "address": "1000 Palladium Dr, Ottawa, ON K2V 1A5, Canada", "arena": "Canadian Tire Centre", "sport": "NHL"}, {"team": "Washington Capitals", "location": [38.8981675, -77.02085679999999], "address": "601 F St NW, Washington, DC 20004, USA", "arena": "Capital One Arena", "sport": "NHL"}, {"team": "Seattle Kraken", "location": [47.62207129999999, -122.3540714], "address": "334 1st Ave N, Seattle, WA 98109, USA", "arena": "Climate Pledge Arena", "sport": "NHL"}, {"team": "St. Louis Blues", "location": [38.6268402, -90.20267830000002], "address": "1401 Clark Ave, St. Louis, MO 63103, USA", "arena": "Enterprise Center", "sport": "NHL"}, {"team": "Arizona Coyotes", "location": [33.532074, -112.2612163], "address": "9400 W Maryland Ave, Glendale, AZ 85305, USA", "arena": "Gila River Arena", "sport": "NHL"}, {"team": "Anaheim Ducks", "location": [33.8078476, -117.8764687], "address": "2695 E Katella Ave, Anaheim, CA 92806, USA", "arena": "Honda Center", "sport": "NHL"}, {"team": "Buffalo Sabres", "location": [42.8750811, -78.8765439], "address": "1 Seymour H Knox III Plaza, Buffalo, NY 14203, USA", "arena": "KeyBank Center", "sport": "NHL"}, {"team": "Detroit Red Wings", "location": [42.3411026, -83.0552673], "address": "2645 Woodward Ave, Detroit, MI 48201, USA", "arena": "Little Caesars Arena", "sport": "NHL"}, {"team": "New York Rangers", "location": [40.7505045, -73.9934387], "address": "4 Pennsylvania Plaza, New York, NY 10001, USA", "arena": "Madison Square Garden", "sport": "NHL"}, {"team": "Columbus Blue Jackets", "location": [39.9692072, -83.0060483], "address": "200 W Nationwide Blvd, Columbus, OH 43215, USA", "arena": "Nationwide Arena", "sport": "NHL"}, {"team": "Carolina Hurricanes", "location": [35.803329, -78.7218018], "address": "1400 Edwards Mill Rd, Raleigh, NC 27607, USA", "arena": "PNC Arena", "sport": "NHL"}, {"team": "Pittsburgh Penguins", "location": [40.4393097, -79.98955289999999], "address": "1001 Fifth Ave, Pittsburgh, PA 15219, USA", "arena": "PPG Paints Arena", "sport": "NHL"}, {"team": "New Jersey Devils", "location": [40.733537, -74.1710659], "address": "25 Lafayette St, Newark, NJ 07102, USA", "arena": "Prudential Center", "sport": "NHL"}, {"team": "Vancouver Canucks", "location": [49.2778358, -123.1088227], "address": "800 Griffiths Way, Vancouver, BC V6B 6G1, Canada", "arena": "Rogers Arena", "sport": "NHL"}, {"team": "Edmonton Oilers", "location": [53.54697549999999, -113.4978004], "address": "10220 104 Ave NW, Edmonton, AB T5J 0H6, Canada", "arena": "Rogers Place", "sport": "NHL"}, {"team": "San Jose Sharks", "location": [37.3327507, -121.9012447], "address": "525 W Santa Clara St, San Jose, CA 95113, USA", "arena": "SAP Center", "sport": "NHL"}, {"team": "Toronto Maple Leafs", "location": [43.6434661, -79.3790989], "address": "40 Bay St., Toronto, ON M5J 2X2, Canada", "arena": "Scotiabank Arena", "sport": "NHL"}, {"team": "Calgary Flames", "location": [51.0374336, -114.0519341], "address": "555 Saddledome Rise SE, Calgary, AB T2G 2W1, Canada", "arena": "Scotiabank Saddledome", "sport": "NHL"}, {"team": "Los Angeles Kings", "location": [34.0430175, -118.2672541], "address": "1111 S Figueroa St, Los Angeles, CA 90015, USA", "arena": "Staples Center", "sport": "NHL"}, {"team": "Boston Bruins", "location": [42.366198, -71.062146], "address": "100 Legends Way, Boston, MA 02114, USA", "arena": "TD Garden", "sport": "NHL"}, {"team": "Vegas Golden Knights", "location": [36.1031582, -115.1787806], "address": "3780 Las Vegas Blvd S, Las Vegas, NV 89158, USA", "arena": "T-Mobile Arena", "sport": "NHL"}, {"team": "New York Islanders", "location": [40.7117992, -73.72619399999999], "address": "2150 Hempstead Turnpike, Elmont, NY 11003, USA", "arena": "UBS Arena", "sport": "NHL"}, {"team": "Chicago Blackhawks", "location": [41.8806908, -87.6741759], "address": "1901 W Madison St, Chicago, IL 60612, USA", "arena": "United Center", "sport": "NHL"}, {"team": "Philadelphia Flyers", "location": [39.9012015, -75.17197949999999], "address": "3601 S Broad St, Philadelphia, PA 19148, USA", "arena": "Wells Fargo Center", "sport": "NHL"}, {"team": "Minnesota Wild", "location": [44.944596, -93.100167], "address": "199 W Kellogg Blvd, St Paul, MN 55102, USA", "arena": "Xcel Energy Center", "sport": "NHL"}, {"team": "Las Vegas Raiders", "location": [36.0908665, -115.1833222], "address": "3333 Al Davis Way, Las Vegas, NV 89118, USA", "arena": "Allegiant Stadium", "sport": "NFL"}, {"team": "Kansas City Chiefs", "location": [39.04893910000001, -94.4839157], "address": "1 Arrowhead Dr, Kansas City, MO 64129, USA", "arena": "Arrowhead Stadium", "sport": "NFL"}, {"team": "Dallas Cowboys", "location": [32.7472844, -97.09449389999999], "address": "1 AT&T Way, Arlington, TX 76011, USA", "arena": "AT&T Stadium", "sport": "NFL"}, {"team": "Carolina Panthers", "location": [35.2258108, -80.8528465], "address": "800 S Mint St, Charlotte, NC 28202, USA", "arena": "Bank of America Stadium", "sport": "NFL"}, {"team": "New Orleans Saints", "location": [29.951061, -90.0812442], "address": "1500 Sugar Bowl Dr, New Orleans, LA 70112, USA", "arena": "Caesars Superdome", "sport": "NFL"}, {"team": "Denver Broncos", "location": [39.7438895, -105.0201094], "address": "1701 Bryant St, Denver, CO 80204, USA", "arena": "Empower Field at Mile High", "sport": "NFL"}, {"team": "Washington Football Team", "location": [38.9076433, -76.8645454], "address": "1600 Fedex Way, Greater Landover, MD 20785, USA", "arena": "FedExField", "sport": "NFL"}, {"team": "Cleveland Browns", "location": [41.5060535, -81.6995481], "address": "100 Alfred Lerner Way, Cleveland, OH 44114, USA", "arena": "FirstEnergy Stadium", "sport": "NFL"}, {"team": "Detroit Lions", "location": [42.3400064, -83.045603], "address": "2000 Brush St, Detroit, MI 48226, USA", "arena": "Ford Field", "sport": "NFL"}, {"team": "New England Patriots", "location": [42.0909458, -71.2643465], "address": "1 Patriot Pl, Foxborough, MA 02035, USA", "arena": "Gillette Stadium", "sport": "NFL"}, {"team": "Miami Dolphins", "location": [25.9579665, -80.2388604], "address": "347 Don Shula Dr, Miami Gardens, FL 33056, USA", "arena": "Hard Rock Stadium", "sport": "NFL"}, {"team": "Pittsburgh Steelers", "location": [40.4467648, -80.0157603], "address": "100 Art Rooney Ave, Pittsburgh, PA 15212, USA", "arena": "Heinz Field", "sport": "NFL"}, {"team": "Buffalo Bills", "location": [42.7737546, -78.7869723], "address": "1 Bills Dr, Orchard Park, NY 14127, USA", "arena": "Highmark Stadium", "sport": "NFL"}, {"team": "Green Bay Packers", "location": [44.5013406, -88.06220830000001], "address": "1265 Lombardi Ave, Green Bay, WI 54304, USA", "arena": "Lambeau Field", "sport": "NFL"}, {"team": "San Francisco 49ers", "location": [37.4031741, -121.9697129], "address": "4900 Marie P DeBartolo Way, Santa Clara, CA 95054, USA", "arena": "Levi's Stadium", "sport": "NFL"}, {"team": "Philadelphia Eagles", "location": [39.9007405, -75.167937], "address": "One Lincoln Financial Field Way, Philadelphia, PA 19148, USA", "arena": "Lincoln Financial Field", "sport": "NFL"}, {"team": "Indianapolis Colts", "location": [39.7601007, -86.16388769999999], "address": "500 S Capitol Ave, Indianapolis, IN 46225, USA", "arena": "Lucas Oil Stadium", "sport": "NFL"}, {"team": "Seattle Seahawks", "location": [47.5951518, -122.3316394], "address": "800 Occidental Ave S, Seattle, WA 98134, USA", "arena": "Lumen Field", "sport": "NFL"}, {"team": "Baltimore Ravens", "location": [39.2779876, -76.6227044], "address": "1101 Russell St, Baltimore, MD 21230, USA", "arena": "M&T Bank Stadium", "sport": "NFL"}, {"team": "Atlanta Falcons", "location": [33.7555194, -84.4008389], "address": "1 AMB Dr NW, Atlanta, GA 30313, USA", "arena": "Mercedes-Benz Stadium", "sport": "NFL"}, {"team": "New York GiantsNew York Jets", "location": [40.8135064, -74.074457], "address": "1 MetLife Stadium Dr, East Rutherford, NJ 07073, USA", "arena": "MetLife Stadium", "sport": "NFL"}, {"team": "Tennessee Titans", "location": [36.166479, -86.77128979999999], "address": "1 Titans Way, Nashville, TN 37213, USA", "arena": "Nissan Stadium", "sport": "NFL"}, {"team": "Houston Texans", "location": [29.6847219, -95.41070739999999], "address": "NRG Pkwy, Houston, TX 77054, USA", "arena": "NRG Stadium", "sport": "NFL"}, {"team": "Cincinnati Bengals", "location": [39.0954576, -84.51605769999999], "address": "1 Paul Brown Stadium, Cincinnati, OH 45202, USA", "arena": "Paul Brown Stadium", "sport": "NFL"}, {"team": "Tampa Bay Buccaneers", "location": [27.9758691, -82.5033344], "address": "4201 N Dale Mabry Hwy, Tampa, FL 33607, USA", "arena": "Raymond James Stadium", "sport": "NFL"}, {"team": "Los Angeles RamsLos Angeles Chargers", "location": [33.9534651, -118.3390396], "address": "1001 Stadium Dr, Inglewood, CA 90301, USA", "arena": "SoFi Stadium", "sport": "NFL"}, {"team": "Chicago Bears", "location": [41.8623132, -87.6166884], "address": "1410 Special Olympics Dr, Chicago, IL 60605, USA", "arena": "Soldier Field", "sport": "NFL"}, {"team": "Arizona Cardinals", "location": [33.5276247, -112.2625593], "address": "1 Cardinals Dr, Glendale, AZ 85305, USA", "arena": "State Farm Stadium", "sport": "NFL"}, {"team": "Jacksonville Jaguars", "location": [30.3239099, -81.6373497], "address": "1 TIAA Bank Field Dr, Jacksonville, FL 32202, USA", "arena": "TIAA Bank Field", "sport": "NFL"}, {"team": "Minnesota Vikings", "location": [44.9736461, -93.25749449999999], "address": "401 Chicago Ave, Minneapolis, MN 55415, USA", "arena": "U.S. Bank Stadium", "sport": "NFL"}, {"team": "Milwaukee Brewers", "location": [43.0279776, -87.9711504], "address": "1 Brewers Way, Milwaukee, WI 53214, USA", "arena": "American Family Field", "sport": "MLB"}, {"team": "Los Angeles Angels", "location": [33.800308, -117.8827321], "address": "2000 E Gene Autry Way, Anaheim, CA 92806, USA", "arena": "Angel Stadium", "sport": "MLB"}, {"team": "St. Louis Cardinals", "location": [38.6226188, -90.1928209], "address": "700 Clark Ave, St. Louis, MO 63102, USA", "arena": "Busch Stadium", "sport": "MLB"}, {"team": "Arizona Diamondbacks", "location": [33.4453344, -112.0667091], "address": "401 E Jefferson St, Phoenix, AZ 85004, USA", "arena": "Chase Field", "sport": "MLB"}, {"team": "New York Mets", "location": [40.7570877, -73.8458213], "address": "41 Seaver Way, Queens, NY 11368, USA", "arena": "Citi Field", "sport": "MLB"}, {"team": "Philadelphia Phillies", "location": [39.9060572, -75.1664952], "address": "1 Citizens Bank Way, Philadelphia, PA 19148, USA", "arena": "Citizens Bank Park", "sport": "MLB"}, {"team": "Detroit Tigers", "location": [42.33899840000001, -83.0485197], "address": "2100 Woodward Ave, Detroit, MI 48201, USA", "arena": "Comerica Park", "sport": "MLB"}, {"team": "Colorado Rockies", "location": [39.7558823, -104.9941781], "address": "2001 Blake St, Denver, CO 80205, USA", "arena": "Coors Field", "sport": "MLB"}, {"team": "Los Angeles Dodgers", "location": [34.073851, -118.2399583], "address": "1000 Vin Scully Ave, Los Angeles, CA 90012, USA", "arena": "Dodger Stadium", "sport": "MLB"}, {"team": "Boston Red Sox", "location": [42.3466764, -71.0972178], "address": "4 Jersey St, Boston, MA 02215, USA", "arena": "Fenway Park", "sport": "MLB"}, {"team": "Texas Rangers", "location": [32.7474557, -97.0838351], "address": "734 Stadium Dr, Arlington, TX 76011, USA", "arena": "Globe Life Field", "sport": "MLB"}, {"team": "Cincinnati Reds", "location": [39.0973808, -84.5070714], "address": "100 Joe Nuxhall Way, Cincinnati, OH 45202, USA", "arena": "Great American Ball Park", "sport": "MLB"}, {"team": "Chicago White Sox", "location": [41.8299021, -87.63375219999999], "address": "333 W 35th St, Chicago, IL 60616, USA", "arena": "Guaranteed Rate Field", "sport": "MLB"}, {"team": "Kansas City Royals", "location": [39.0516719, -94.4803142], "address": "1 Royal Way, Kansas City, MO 64129, USA", "arena": "Kauffman Stadium", "sport": "MLB"}, {"team": "Miami Marlins", "location": [25.7781487, -80.2195998], "address": "501 Marlins Way, Miami, FL 33125, USA", "arena": "LoanDepot Park", "sport": "MLB"}, {"team": "Houston Astros", "location": [29.7572694, -95.3555143], "address": "501 Crawford St, Houston, TX 77002, USA", "arena": "Minute Maid Park", "sport": "MLB"}, {"team": "Washington Nationals", "location": [38.8730102, -77.0074329], "address": "1500 S Capitol St SE, Washington, DC 20003, USA", "arena": "Nationals Park", "sport": "MLB"}, {"team": "Oakland Athletics", "location": [37.7515946, -122.2005458], "address": "7000 Coliseum Way, Oakland, CA 94621, USA", "arena": "Oakland Coliseum", "sport": "MLB"}, {"team": "San Francisco Giants", "location": [37.7785951, -122.3892698], "address": "24 Willie Mays Plaza, San Francisco, CA 94107, USA", "arena": "Oracle Park", "sport": "MLB"}, {"team": "Baltimore Orioles", "location": [39.2839354, -76.6215654], "address": "333 W Camden St, Baltimore, MD 21201, USA", "arena": "Oriole Park at Camden Yards", "sport": "MLB"}, {"team": "San Diego Padres", "location": [32.7076035, -117.157036], "address": "100 Park Blvd, San Diego, CA 92101, USA", "arena": "Petco Park", "sport": "MLB"}, {"team": "Pittsburgh Pirates", "location": [40.446941, -80.0057054], "address": "115 Federal St, Pittsburgh, PA 15212, USA", "arena": "PNC Park", "sport": "MLB"}, {"team": "Cleveland Indians", "location": [41.496211, -81.6852289], "address": "2401 Ontario St, Cleveland, OH 44115, USA", "arena": "Progressive Field", "sport": "MLB"}, {"team": "Toronto Blue Jays", "location": [43.64177979999999, -79.38914369999999], "address": "1 Blue Jays Way, Toronto, ON M5V 1J1, Canada", "arena": "Rogers Centre", "sport": "MLB"}, {"team": "Seattle Mariners", "location": [47.5914026, -122.3325085], "address": "1250 1st Ave S, Seattle, WA 98134, USA", "arena": "T-Mobile Park", "sport": "MLB"}, {"team": "Minnesota Twins", "location": [44.98174299999999, -93.27762919999999], "address": "1 Twins Way, Minneapolis, MN 55403, USA", "arena": "Target Field", "sport": "MLB"}, {"team": "Tampa Bay Rays", "location": [27.7682246, -82.65339209999999], "address": "1 Tropicana Dr., St. Petersburg, FL 33705, USA", "arena": "Tropicana Field", "sport": "MLB"}, {"team": "Atlanta Braves", "location": [33.8910646, -84.4684498], "address": "755 Battery Ave SE, Atlanta, GA 30339, USA", "arena": "Truist Park", "sport": "MLB"}, {"team": "Chicago Cubs", "location": [41.9484384, -87.6553327], "address": "1060 W Addison St, Chicago, IL 60613, USA", "arena": "Wrigley Field", "sport": "MLB"}, {"team": "New York Yankees", "location": [40.8296426, -73.9261745], "address": "1 E 161 St, Bronx, NY 10451, USA", "arena": "Yankee Stadium", "sport": "MLB"}, {"team": "Dallas Mavericks", "location": [32.7903908, -96.8102547], "address": "2500 Victory Ave, Dallas, TX 75219, USA", "arena": "American Airlines Center", "sport": "NBA"}, {"team": "Orlando Magic", "location": [28.5392214, -81.3838535], "address": "400 W Church St Suite 200, Orlando, FL 32801, USA", "arena": "Amway Center", "sport": "NBA"}, {"team": "San Antonio Spurs", "location": [29.4270201, -98.43746519999999], "address": "1 AT&T Center Parkway, San Antonio, TX 78219, USA", "arena": "AT&T Center", "sport": "NBA"}, {"team": "Denver Nuggets", "location": [39.7486565, -105.0076028], "address": "1000 Chopper Cir, Denver, CO 80204, USA", "arena": "Ball Arena", "sport": "NBA"}, {"team": "Indiana Pacers", "location": [39.7640434, -86.1555367], "address": "125 S Pennsylvania St, Indianapolis, IN 46204, USA", "arena": "Bankers Life Fieldhouse", "sport": "NBA"}, {"team": "Brooklyn Nets", "location": [40.6826465, -73.97541559999999], "address": "620 Atlantic Ave, Brooklyn, NY 11217, USA", "arena": "Barclays Center", "sport": "NBA"}, {"team": "Washington Wizards", "location": [38.8981675, -77.02085679999999], "address": "601 F St NW, Washington, DC 20004, USA", "arena": "Capital One Arena", "sport": "NBA"}, {"team": "Golden State Warriors", "location": [37.7680466, -122.387715], "address": "1 Warriors Way, San Francisco, CA 94158, USA", "arena": "Chase Center", "sport": "NBA"}, {"team": "Memphis Grizzlies", "location": [35.1381418, -90.0505864], "address": "191 Beale St, Memphis, TN 38103, USA", "arena": "FedExForum", "sport": "NBA"}, {"team": "Milwaukee Bucks", "location": [43.0450802, -87.9173862], "address": "1111 Vel R. Phillips Ave, Milwaukee, WI 53203, USA", "arena": "Fiserv Forum", "sport": "NBA"}, {"team": "Phoenix Suns", "location": [33.445737, -112.0712003], "address": "201 E Jefferson St, Phoenix, AZ 85004, USA", "arena": "Footprint Center", "sport": "NBA"}, {"team": "Miami Heat", "location": [25.7814014, -80.18696899999999], "address": "601 Biscayne Blvd, Miami, FL 33132, USA", "arena": "FTX Arena", "sport": "NBA"}, {"team": "Sacramento Kings", "location": [38.5802045, -121.4996602], "address": "500 David J Stern Walk, Sacramento, CA 95814, USA", "arena": "Golden 1 Center", "sport": "NBA"}, {"team": "Detroit Pistons", "location": [42.3411026, -83.0552673], "address": "2645 Woodward Ave, Detroit, MI 48201, USA", "arena": "Little Caesars Arena", "sport": "NBA"}, {"team": "New York Knicks", "location": [40.7505045, -73.9934387], "address": "4 Pennsylvania Plaza, New York, NY 10001, USA", "arena": "Madison Square Garden", "sport": "NBA"}, {"team": "Portland Trail Blazers", "location": [45.53156509999999, -122.6668423], "address": "1 N Center Ct St, Portland, OR 97227, USA", "arena": "Moda Center", "sport": "NBA"}, {"team": "Oklahoma City Thunder", "location": [35.4634247, -97.5151138], "address": "100 W Reno Ave, Oklahoma City, OK 73102, USA", "arena": "Paycom Center", "sport": "NBA"}, {"team": "Cleveland Cavaliers", "location": [41.4965474, -81.68805739999999], "address": "1 Center Court, Cleveland, OH 44115, USA", "arena": "Rocket Mortgage FieldHouse", "sport": "NBA"}, {"team": "Toronto Raptors", "location": [43.6434661, -79.3790989], "address": "40 Bay St., Toronto, ON M5J 2X2, Canada", "arena": "Scotiabank Arena", "sport": "NBA"}, {"team": "New Orleans Pelicans", "location": [29.9490351, -90.08205679999999], "address": "1501 Dave Dixon Dr, New Orleans, LA 70113, USA", "arena": "Smoothie King Center", "sport": "NBA"}, {"team": "Charlotte Hornets", "location": [35.2251519, -80.8393911], "address": "333 E Trade St, Charlotte, NC 28202, USA", "arena": "Spectrum Center", "sport": "NBA"}, {"team": "Los Angeles Clippers", "location": [34.0430175, -118.2672541], "address": "1111 S Figueroa St, Los Angeles, CA 90015, USA", "arena": "Staples Center", "sport": "NBA"}, {"team": "Los Angeles Lakers", "location": [34.0430175, -118.2672541], "address": "1111 S Figueroa St, Los Angeles, CA 90015, USA", "arena": "Staples Center", "sport": "NBA"}, {"team": "Atlanta Hawks", "location": [33.7572891, -84.3963244], "address": "1 State Farm Dr, Atlanta, GA 30303, USA", "arena": "State Farm Arena", "sport": "NBA"}, {"team": "Minnesota Timberwolves", "location": [44.9794633, -93.2760947], "address": "600 N 1st Ave, Minneapolis, MN 55403, USA", "arena": "Target Center", "sport": "NBA"}, {"team": "Boston Celtics", "location": [42.366198, -71.062146], "address": "100 Legends Way, Boston, MA 02114, USA", "arena": "TD Garden", "sport": "NBA"}, {"team": "Houston Rockets", "location": [29.75076039999999, -95.3621005], "address": "1510 Polk St, Houston, TX 77002, USA", "arena": "Toyota Center", "sport": "NBA"}, {"team": "Chicago Bulls", "location": [41.8806908, -87.6741759], "address": "1901 W Madison St, Chicago, IL 60612, USA", "arena": "United Center", "sport": "NBA"}, {"team": "Utah Jazz", "location": [40.7682681, -111.9010874], "address": "301 S Temple, Salt Lake City, UT 84101, USA", "arena": "Vivint Arena", "sport": "NBA"}, {"team": "Philadelphia 76ers", "location": [39.9012015, -75.17197949999999], "address": "3601 S Broad St, Philadelphia, PA 19148, USA", "arena": "Wells Fargo Center", "sport": "NBA"}, {"team": "Minnesota United FC", "location": [44.9522761, -93.16464839999999], "address": "400 Snelling Ave N, St Paul, MN 55104, USA", "arena": "Allianz Field", "sport": "MLS"}, {"team": "D.C. United", "location": [38.8689313, -77.012926], "address": "100 Potomac Ave SW, Washington, DC 20024, USA", "arena": "Audi Field", "sport": "MLS"}, {"team": "Los Angeles FC", "location": [34.0126382, -118.2841482], "address": "3939 S Figueroa St, Los Angeles, CA 90037, USA", "arena": "Banc of California Stadium", "sport": "MLS"}, {"team": "Houston Dynamo FC", "location": [29.7521689, -95.3522816], "address": "2200 Texas Ave, Houston, TX 77003, USA", "arena": "BBVA Stadium", "sport": "MLS"}, {"team": "Vancouver Whitecaps FC", "location": [49.27675, -123.111999], "address": "777 Pacific Blvd, Vancouver, BC V6B 4Y8, Canada", "arena": "BC Place", "sport": "MLS"}, {"team": "Toronto FC", "location": [43.6331702, -79.4186162], "address": "170 Princes' Blvd, Toronto, ON M6K 3C3, Canada", "arena": "BMO Field", "sport": "MLS"}, {"team": "Sporting Kansas City", "location": [39.1215929, -94.82317669999999], "address": "1 Sporting Way, Kansas City, KS 66111, USA", "arena": "Children's Mercy Park", "sport": "MLS"}, {"team": "Colorado Rapids", "location": [39.8049583, -104.9002304], "address": "6000 Victory Way, Commerce City, CO 80022, USA", "arena": "Dick's Sporting Goods Park", "sport": "MLS"}, {"team": "LA Galaxy", "location": [33.8643777, -118.2611426], "address": "18400 S Avalon Blvd, Carson, CA 90746, USA", "arena": "Dignity Health Sports Park", "sport": "MLS"}, {"team": "Inter Miami CF", "location": [26.1931127, -80.1610244], "address": "1350 NW 55th St, Fort Lauderdale, FL 33309, USA", "arena": "DRV PNK Stadium", "sport": "MLS"}, {"team": "Orlando City SC", "location": [28.5411828, -81.3890693], "address": "655 W Church St, Orlando, FL 32805, USA", "arena": "Exploria Stadium", "sport": "MLS"}, {"team": "New England Revolution", "location": [42.0909458, -71.2643465], "address": "1 Patriot Pl, Foxborough, MA 02035, USA", "arena": "Gillette Stadium", "sport": "MLS"}, {"team": "Columbus Crew", "location": [39.968464, -83.0170957], "address": "96 Columbus Crew Way, Columbus, OH 43215, USA", "arena": "Lower.com Field", "sport": "MLS"}, {"team": "Seattle Sounders FC", "location": [47.5951518, -122.3316394], "address": "800 Occidental Ave S, Seattle, WA 98134, USA", "arena": "Lumen Field", "sport": "MLS"}, {"team": "Atlanta United FC", "location": [33.7555194, -84.4008389], "address": "1 AMB Dr NW, Atlanta, GA 30313, USA", "arena": "Mercedes-Benz Stadium", "sport": "MLS"}, {"team": "Nashville SC", "location": [36.166479, -86.77128979999999], "address": "1 Titans Way, Nashville, TN 37213, USA", "arena": "Nissan Stadium", "sport": "MLS"}, {"team": "San Jose Earthquakes", "location": [37.3511366, -121.9246518], "address": "1123 Coleman Ave, San Jose, CA 95110, USA", "arena": "PayPal Park", "sport": "MLS"}, {"team": "Portland Timbers", "location": [45.5215389, -122.6918444], "address": "1844 SW Morrison St, Portland, OR 97205, USA", "arena": "Providence Park", "sport": "MLS"}, {"team": "Austin FC", "location": [30.3877461, -97.7193751], "address": "10414 Mc Kalla Pl, Austin, TX 78758, USA", "arena": "Q2 Stadium", "sport": "MLS"}, {"team": "New York Red Bulls", "location": [40.7368436, -74.1502355], "address": "600 Cape May St, Harrison, NJ 07029, USA", "arena": "Red Bull Arena", "sport": "MLS"}, {"team": "Real Salt Lake", "location": [40.5829301, -111.8933611], "address": "9256 S, State St, Sandy, UT 84070, USA", "arena": "Rio Tinto Stadium", "sport": "MLS"}, {"team": "CF Montr\u00e9al", "location": [45.5622947, -73.55303239999999], "address": "4750 Rue Sherbrooke E, Montr\u00e9al, QC H1V 3S8, Canada", "arena": "Saputo Stadium", "sport": "MLS"}, {"team": "Chicago Fire FC", "location": [41.8623132, -87.6166884], "address": "1410 Special Olympics Dr, Chicago, IL 60605, USA", "arena": "Soldier Field", "sport": "MLS"}, {"team": "Philadelphia Union", "location": [39.8331656, -75.37956419999999], "address": "2501 Seaport Dr, Chester, PA 19013, USA", "arena": "Subaru Park", "sport": "MLS"}, {"team": "FC Dallas", "location": [33.1543199, -96.8352278], "address": "9200 World Cup Way, Frisco, TX 75033, USA", "arena": "Toyota Stadium", "sport": "MLS"}, {"team": "FC Cincinnati", "location": [39.1110972, -84.522255], "address": "1501 Central Pkwy, Cincinnati, OH 45214, USA", "arena": "TQL Stadium", "sport": "MLS"}, {"team": "New York City FC", "location": [40.8296426, -73.9261745], "address": "1 E 161 St, Bronx, NY 10451, USA", "arena": "Yankee Stadium", "sport": "MLS"}]
+[
+    {
+        "team": "Tampa Bay Lightning",
+        "location": [
+            27.9427373,
+            -82.4517771
+        ],
+        "address": "401 Channelside Dr, Tampa, FL 33602, USA",
+        "arena": "Amalie Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "Dallas Stars",
+        "location": [
+            32.7903908,
+            -96.8102547
+        ],
+        "address": "2500 Victory Ave, Dallas, TX 75219, USA",
+        "arena": "American Airlines Center",
+        "sport": "NHL"
+    },
+    {
+        "team": "Colorado Avalanche",
+        "location": [
+            39.7486565,
+            -105.0076028
+        ],
+        "address": "1000 Chopper Cir, Denver, CO 80204, USA",
+        "arena": "Ball Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "Montreal Canadiens",
+        "location": [
+            45.4960667,
+            -73.5693153
+        ],
+        "address": "1909 Av. des Canadiens-de-Montr\u00e9al, Montr\u00e9al, QC H3B 5E8, Canada",
+        "arena": "Bell Centre",
+        "sport": "NHL"
+    },
+    {
+        "team": "Nashville Predators",
+        "location": [
+            36.1591736,
+            -86.7784959
+        ],
+        "address": "501 Broadway, Nashville, TN 37203, USA",
+        "arena": "Bridgestone Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "Winnipeg Jets",
+        "location": [
+            49.8926443,
+            -97.14376240000001
+        ],
+        "address": "345 Graham Ave, Winnipeg, MB R3C 5S6, Canada",
+        "arena": "Canada Life Centre",
+        "sport": "NHL"
+    },
+    {
+        "team": "Ottawa Senators",
+        "location": [
+            45.2969151,
+            -75.926823
+        ],
+        "address": "1000 Palladium Dr, Ottawa, ON K2V 1A5, Canada",
+        "arena": "Canadian Tire Centre",
+        "sport": "NHL"
+    },
+    {
+        "team": "Washington Capitals",
+        "location": [
+            38.8981675,
+            -77.02085679999999
+        ],
+        "address": "601 F St NW, Washington, DC 20004, USA",
+        "arena": "Capital One Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "Seattle Kraken",
+        "location": [
+            47.62207129999999,
+            -122.3540714
+        ],
+        "address": "334 1st Ave N, Seattle, WA 98109, USA",
+        "arena": "Climate Pledge Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "St. Louis Blues",
+        "location": [
+            38.6268402,
+            -90.20267830000002
+        ],
+        "address": "1401 Clark Ave, St. Louis, MO 63103, USA",
+        "arena": "Enterprise Center",
+        "sport": "NHL"
+    },
+    {
+        "team": "Florida Panthers",
+        "location": [
+            26.1584958,
+            -80.3255204
+        ],
+        "address": "1 Panther Pkwy, Sunrise, FL 33323, USA",
+        "arena": "FLA Live Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "Arizona Coyotes",
+        "location": [
+            33.532074,
+            -112.2612163
+        ],
+        "address": "9400 W Maryland Ave, Glendale, AZ 85305, USA",
+        "arena": "Gila River Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "Anaheim Ducks",
+        "location": [
+            33.8078476,
+            -117.8764687
+        ],
+        "address": "2695 E Katella Ave, Anaheim, CA 92806, USA",
+        "arena": "Honda Center",
+        "sport": "NHL"
+    },
+    {
+        "team": "Buffalo Sabres",
+        "location": [
+            42.8750811,
+            -78.8765439
+        ],
+        "address": "1 Seymour H Knox III Plaza, Buffalo, NY 14203, USA",
+        "arena": "KeyBank Center",
+        "sport": "NHL"
+    },
+    {
+        "team": "Detroit Red Wings",
+        "location": [
+            42.3411026,
+            -83.0552673
+        ],
+        "address": "2645 Woodward Ave, Detroit, MI 48201, USA",
+        "arena": "Little Caesars Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "New York Rangers",
+        "location": [
+            40.7505045,
+            -73.9934387
+        ],
+        "address": "4 Pennsylvania Plaza, New York, NY 10001, USA",
+        "arena": "Madison Square Garden",
+        "sport": "NHL"
+    },
+    {
+        "team": "Columbus Blue Jackets",
+        "location": [
+            39.9692072,
+            -83.0060483
+        ],
+        "address": "200 W Nationwide Blvd, Columbus, OH 43215, USA",
+        "arena": "Nationwide Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "Carolina Hurricanes",
+        "location": [
+            35.803329,
+            -78.7218018
+        ],
+        "address": "1400 Edwards Mill Rd, Raleigh, NC 27607, USA",
+        "arena": "PNC Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "Pittsburgh Penguins",
+        "location": [
+            40.4393097,
+            -79.98955289999999
+        ],
+        "address": "1001 Fifth Ave, Pittsburgh, PA 15219, USA",
+        "arena": "PPG Paints Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "New Jersey Devils",
+        "location": [
+            40.733537,
+            -74.1710659
+        ],
+        "address": "25 Lafayette St, Newark, NJ 07102, USA",
+        "arena": "Prudential Center",
+        "sport": "NHL"
+    },
+    {
+        "team": "Vancouver Canucks",
+        "location": [
+            49.2778358,
+            -123.1088227
+        ],
+        "address": "800 Griffiths Way, Vancouver, BC V6B 6G1, Canada",
+        "arena": "Rogers Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "Edmonton Oilers",
+        "location": [
+            53.54697549999999,
+            -113.4978004
+        ],
+        "address": "10220 104 Ave NW, Edmonton, AB T5J 0H6, Canada",
+        "arena": "Rogers Place",
+        "sport": "NHL"
+    },
+    {
+        "team": "San Jose Sharks",
+        "location": [
+            37.3327507,
+            -121.9012447
+        ],
+        "address": "525 W Santa Clara St, San Jose, CA 95113, USA",
+        "arena": "SAP Center",
+        "sport": "NHL"
+    },
+    {
+        "team": "Toronto Maple Leafs",
+        "location": [
+            43.6434661,
+            -79.3790989
+        ],
+        "address": "40 Bay St., Toronto, ON M5J 2X2, Canada",
+        "arena": "Scotiabank Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "Calgary Flames",
+        "location": [
+            51.0374336,
+            -114.0519341
+        ],
+        "address": "555 Saddledome Rise SE, Calgary, AB T2G 2W1, Canada",
+        "arena": "Scotiabank Saddledome",
+        "sport": "NHL"
+    },
+    {
+        "team": "Los Angeles Kings",
+        "location": [
+            34.0430175,
+            -118.2672541
+        ],
+        "address": "1111 S Figueroa St, Los Angeles, CA 90015, USA",
+        "arena": "Staples Center",
+        "sport": "NHL"
+    },
+    {
+        "team": "Boston Bruins",
+        "location": [
+            42.366198,
+            -71.062146
+        ],
+        "address": "100 Legends Way, Boston, MA 02114, USA",
+        "arena": "TD Garden",
+        "sport": "NHL"
+    },
+    {
+        "team": "Vegas Golden Knights",
+        "location": [
+            36.1031582,
+            -115.1787806
+        ],
+        "address": "3780 Las Vegas Blvd S, Las Vegas, NV 89158, USA",
+        "arena": "T-Mobile Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "New York Islanders",
+        "location": [
+            40.7117992,
+            -73.72619399999999
+        ],
+        "address": "2150 Hempstead Turnpike, Elmont, NY 11003, USA",
+        "arena": "UBS Arena",
+        "sport": "NHL"
+    },
+    {
+        "team": "Chicago Blackhawks",
+        "location": [
+            41.8806908,
+            -87.6741759
+        ],
+        "address": "1901 W Madison St, Chicago, IL 60612, USA",
+        "arena": "United Center",
+        "sport": "NHL"
+    },
+    {
+        "team": "Philadelphia Flyers",
+        "location": [
+            39.9012015,
+            -75.17197949999999
+        ],
+        "address": "3601 S Broad St, Philadelphia, PA 19148, USA",
+        "arena": "Wells Fargo Center",
+        "sport": "NHL"
+    },
+    {
+        "team": "Minnesota Wild",
+        "location": [
+            44.944596,
+            -93.100167
+        ],
+        "address": "199 W Kellogg Blvd, St Paul, MN 55102, USA",
+        "arena": "Xcel Energy Center",
+        "sport": "NHL"
+    },
+    {
+        "team": "Las Vegas Raiders",
+        "location": [
+            36.0908665,
+            -115.1833222
+        ],
+        "address": "3333 Al Davis Way, Las Vegas, NV 89118, USA",
+        "arena": "Allegiant Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Kansas City Chiefs",
+        "location": [
+            39.04893910000001,
+            -94.4839157
+        ],
+        "address": "1 Arrowhead Dr, Kansas City, MO 64129, USA",
+        "arena": "Arrowhead Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Dallas Cowboys",
+        "location": [
+            32.7472844,
+            -97.09449389999999
+        ],
+        "address": "1 AT&T Way, Arlington, TX 76011, USA",
+        "arena": "AT&T Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Carolina Panthers",
+        "location": [
+            35.2257795,
+            -80.852965
+        ],
+        "address": "800 S Mint St, Charlotte, NC 28202, USA",
+        "arena": "Bank of America Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "New Orleans Saints",
+        "location": [
+            29.951061,
+            -90.0812442
+        ],
+        "address": "1500 Sugar Bowl Dr, New Orleans, LA 70112, USA",
+        "arena": "Caesars Superdome",
+        "sport": "NFL"
+    },
+    {
+        "team": "Denver Broncos",
+        "location": [
+            39.7438895,
+            -105.0201094
+        ],
+        "address": "1701 Bryant St, Denver, CO 80204, USA",
+        "arena": "Empower Field at Mile High",
+        "sport": "NFL"
+    },
+    {
+        "team": "Washington Football Team",
+        "location": [
+            38.9076433,
+            -76.8645454
+        ],
+        "address": "1600 Fedex Way, Greater Landover, MD 20785, USA",
+        "arena": "FedExField",
+        "sport": "NFL"
+    },
+    {
+        "team": "Cleveland Browns",
+        "location": [
+            41.5060535,
+            -81.6995481
+        ],
+        "address": "100 Alfred Lerner Way, Cleveland, OH 44114, USA",
+        "arena": "FirstEnergy Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Detroit Lions",
+        "location": [
+            42.3400064,
+            -83.045603
+        ],
+        "address": "2000 Brush St, Detroit, MI 48226, USA",
+        "arena": "Ford Field",
+        "sport": "NFL"
+    },
+    {
+        "team": "New England Patriots",
+        "location": [
+            42.0909458,
+            -71.2643465
+        ],
+        "address": "1 Patriot Pl, Foxborough, MA 02035, USA",
+        "arena": "Gillette Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Miami Dolphins",
+        "location": [
+            25.9579665,
+            -80.2388604
+        ],
+        "address": "347 Don Shula Dr, Miami Gardens, FL 33056, USA",
+        "arena": "Hard Rock Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Pittsburgh Steelers",
+        "location": [
+            40.4467648,
+            -80.0157603
+        ],
+        "address": "100 Art Rooney Ave, Pittsburgh, PA 15212, USA",
+        "arena": "Heinz Field",
+        "sport": "NFL"
+    },
+    {
+        "team": "Buffalo Bills",
+        "location": [
+            40.4362358,
+            -80.00959209999999
+        ],
+        "address": "510 W Station Square Dr, Pittsburgh, PA 15219, USA",
+        "arena": "Highmark Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Green Bay Packers",
+        "location": [
+            44.5013406,
+            -88.06220830000001
+        ],
+        "address": "1265 Lombardi Ave, Green Bay, WI 54304, USA",
+        "arena": "Lambeau Field",
+        "sport": "NFL"
+    },
+    {
+        "team": "San Francisco 49ers",
+        "location": [
+            37.4031741,
+            -121.9697129
+        ],
+        "address": "4900 Marie P DeBartolo Way, Santa Clara, CA 95054, USA",
+        "arena": "Levi's Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Philadelphia Eagles",
+        "location": [
+            39.9013695,
+            -75.16752149999999
+        ],
+        "address": "One Lincoln Financial Field Way, Philadelphia, PA 19148, USA",
+        "arena": "Lincoln Financial Field",
+        "sport": "NFL"
+    },
+    {
+        "team": "Indianapolis Colts",
+        "location": [
+            39.7601007,
+            -86.16388769999999
+        ],
+        "address": "500 S Capitol Ave, Indianapolis, IN 46225, USA",
+        "arena": "Lucas Oil Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Seattle Seahawks",
+        "location": [
+            47.5951518,
+            -122.3316394
+        ],
+        "address": "800 Occidental Ave S, Seattle, WA 98134, USA",
+        "arena": "Lumen Field",
+        "sport": "NFL"
+    },
+    {
+        "team": "Baltimore Ravens",
+        "location": [
+            39.2779876,
+            -76.6227044
+        ],
+        "address": "1101 Russell St, Baltimore, MD 21230, USA",
+        "arena": "M&T Bank Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Atlanta Falcons",
+        "location": [
+            33.7555194,
+            -84.4008389
+        ],
+        "address": "1 AMB Dr NW, Atlanta, GA 30313, USA",
+        "arena": "Mercedes-Benz Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "New York GiantsNew York Jets",
+        "location": [
+            40.8135064,
+            -74.074457
+        ],
+        "address": "1 MetLife Stadium Dr, East Rutherford, NJ 07073, USA",
+        "arena": "MetLife Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Tennessee Titans",
+        "location": [
+            36.166479,
+            -86.77128979999999
+        ],
+        "address": "1 Titans Way, Nashville, TN 37213, USA",
+        "arena": "Nissan Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Houston Texans",
+        "location": [
+            29.6847219,
+            -95.41070739999999
+        ],
+        "address": "NRG Pkwy, Houston, TX 77054, USA",
+        "arena": "NRG Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Cincinnati Bengals",
+        "location": [
+            39.0954576,
+            -84.51605769999999
+        ],
+        "address": "1 Paul Brown Stadium, Cincinnati, OH 45202, USA",
+        "arena": "Paul Brown Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Tampa Bay Buccaneers",
+        "location": [
+            27.9758691,
+            -82.5033344
+        ],
+        "address": "4201 N Dale Mabry Hwy, Tampa, FL 33607, USA",
+        "arena": "Raymond James Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Los Angeles RamsLos Angeles Chargers",
+        "location": [
+            33.9534651,
+            -118.3390396
+        ],
+        "address": "1001 Stadium Dr, Inglewood, CA 90301, USA",
+        "arena": "SoFi Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Chicago Bears",
+        "location": [
+            41.8623132,
+            -87.6166884
+        ],
+        "address": "1410 Special Olympics Dr, Chicago, IL 60605, USA",
+        "arena": "Soldier Field",
+        "sport": "NFL"
+    },
+    {
+        "team": "Arizona Cardinals",
+        "location": [
+            33.5276247,
+            -112.2625593
+        ],
+        "address": "1 Cardinals Dr, Glendale, AZ 85305, USA",
+        "arena": "State Farm Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Jacksonville Jaguars",
+        "location": [
+            30.3239099,
+            -81.6373497
+        ],
+        "address": "1 TIAA Bank Field Dr, Jacksonville, FL 32202, USA",
+        "arena": "TIAA Bank Field",
+        "sport": "NFL"
+    },
+    {
+        "team": "Minnesota Vikings",
+        "location": [
+            44.9736461,
+            -93.25749449999999
+        ],
+        "address": "401 Chicago Ave, Minneapolis, MN 55415, USA",
+        "arena": "U.S. Bank Stadium",
+        "sport": "NFL"
+    },
+    {
+        "team": "Milwaukee Brewers",
+        "location": [
+            43.0279776,
+            -87.9711504
+        ],
+        "address": "1 Brewers Way, Milwaukee, WI 53214, USA",
+        "arena": "American Family Field",
+        "sport": "MLB"
+    },
+    {
+        "team": "Los Angeles Angels",
+        "location": [
+            33.800308,
+            -117.8827321
+        ],
+        "address": "2000 E Gene Autry Way, Anaheim, CA 92806, USA",
+        "arena": "Angel Stadium",
+        "sport": "MLB"
+    },
+    {
+        "team": "St. Louis Cardinals",
+        "location": [
+            38.6226188,
+            -90.1928209
+        ],
+        "address": "700 Clark Ave, St. Louis, MO 63102, USA",
+        "arena": "Busch Stadium",
+        "sport": "MLB"
+    },
+    {
+        "team": "Arizona Diamondbacks",
+        "location": [
+            33.4453344,
+            -112.0667091
+        ],
+        "address": "401 E Jefferson St, Phoenix, AZ 85004, USA",
+        "arena": "Chase Field",
+        "sport": "MLB"
+    },
+    {
+        "team": "New York Mets",
+        "location": [
+            40.7570877,
+            -73.8458213
+        ],
+        "address": "41 Seaver Way, Queens, NY 11368, USA",
+        "arena": "Citi Field",
+        "sport": "MLB"
+    },
+    {
+        "team": "Philadelphia Phillies",
+        "location": [
+            39.9060572,
+            -75.1664952
+        ],
+        "address": "1 Citizens Bank Way, Philadelphia, PA 19148, USA",
+        "arena": "Citizens Bank Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Detroit Tigers",
+        "location": [
+            42.33899840000001,
+            -83.0485197
+        ],
+        "address": "2100 Woodward Ave, Detroit, MI 48201, USA",
+        "arena": "Comerica Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Colorado Rockies",
+        "location": [
+            39.7558823,
+            -104.9941781
+        ],
+        "address": "2001 Blake St, Denver, CO 80205, USA",
+        "arena": "Coors Field",
+        "sport": "MLB"
+    },
+    {
+        "team": "Los Angeles Dodgers",
+        "location": [
+            34.073851,
+            -118.2399583
+        ],
+        "address": "1000 Vin Scully Ave, Los Angeles, CA 90012, USA",
+        "arena": "Dodger Stadium",
+        "sport": "MLB"
+    },
+    {
+        "team": "Boston Red Sox",
+        "location": [
+            42.3466764,
+            -71.0972178
+        ],
+        "address": "4 Jersey St, Boston, MA 02215, USA",
+        "arena": "Fenway Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Texas Rangers",
+        "location": [
+            32.7474557,
+            -97.0838351
+        ],
+        "address": "734 Stadium Dr, Arlington, TX 76011, USA",
+        "arena": "Globe Life Field",
+        "sport": "MLB"
+    },
+    {
+        "team": "Cincinnati Reds",
+        "location": [
+            39.0973808,
+            -84.5070714
+        ],
+        "address": "100 Joe Nuxhall Way, Cincinnati, OH 45202, USA",
+        "arena": "Great American Ball Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Chicago White Sox",
+        "location": [
+            41.8299021,
+            -87.63375219999999
+        ],
+        "address": "333 W 35th St, Chicago, IL 60616, USA",
+        "arena": "Guaranteed Rate Field",
+        "sport": "MLB"
+    },
+    {
+        "team": "Kansas City Royals",
+        "location": [
+            39.0516719,
+            -94.4803142
+        ],
+        "address": "1 Royal Way, Kansas City, MO 64129, USA",
+        "arena": "Kauffman Stadium",
+        "sport": "MLB"
+    },
+    {
+        "team": "Miami Marlins",
+        "location": [
+            25.7781487,
+            -80.2195998
+        ],
+        "address": "501 Marlins Way, Miami, FL 33125, USA",
+        "arena": "LoanDepot Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Houston Astros",
+        "location": [
+            29.7572694,
+            -95.3555143
+        ],
+        "address": "501 Crawford St, Houston, TX 77002, USA",
+        "arena": "Minute Maid Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Washington Nationals",
+        "location": [
+            38.8730102,
+            -77.0074329
+        ],
+        "address": "1500 S Capitol St SE, Washington, DC 20003, USA",
+        "arena": "Nationals Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Oakland Athletics",
+        "location": [
+            37.7515946,
+            -122.2005458
+        ],
+        "address": "7000 Coliseum Way, Oakland, CA 94621, USA",
+        "arena": "Oakland Coliseum",
+        "sport": "MLB"
+    },
+    {
+        "team": "San Francisco Giants",
+        "location": [
+            37.7785951,
+            -122.3892698
+        ],
+        "address": "24 Willie Mays Plaza, San Francisco, CA 94107, USA",
+        "arena": "Oracle Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Baltimore Orioles",
+        "location": [
+            39.2839354,
+            -76.6215654
+        ],
+        "address": "333 W Camden St, Baltimore, MD 21201, USA",
+        "arena": "Oriole Park at Camden Yards",
+        "sport": "MLB"
+    },
+    {
+        "team": "San Diego Padres",
+        "location": [
+            32.7076035,
+            -117.157036
+        ],
+        "address": "100 Park Blvd, San Diego, CA 92101, USA",
+        "arena": "Petco Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Pittsburgh Pirates",
+        "location": [
+            40.446941,
+            -80.0057054
+        ],
+        "address": "115 Federal St, Pittsburgh, PA 15212, USA",
+        "arena": "PNC Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Cleveland Indians",
+        "location": [
+            41.496211,
+            -81.6852289
+        ],
+        "address": "2401 Ontario St, Cleveland, OH 44115, USA",
+        "arena": "Progressive Field",
+        "sport": "MLB"
+    },
+    {
+        "team": "Toronto Blue Jays",
+        "location": [
+            43.64177979999999,
+            -79.38914369999999
+        ],
+        "address": "1 Blue Jays Way, Toronto, ON M5V 1J1, Canada",
+        "arena": "Rogers Centre",
+        "sport": "MLB"
+    },
+    {
+        "team": "Seattle Mariners",
+        "location": [
+            47.5914026,
+            -122.3325085
+        ],
+        "address": "1250 1st Ave S, Seattle, WA 98134, USA",
+        "arena": "T-Mobile Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Minnesota Twins",
+        "location": [
+            44.98174299999999,
+            -93.27762919999999
+        ],
+        "address": "1 Twins Way, Minneapolis, MN 55403, USA",
+        "arena": "Target Field",
+        "sport": "MLB"
+    },
+    {
+        "team": "Tampa Bay Rays",
+        "location": [
+            27.7682246,
+            -82.65339209999999
+        ],
+        "address": "1 Tropicana Dr., St. Petersburg, FL 33705, USA",
+        "arena": "Tropicana Field",
+        "sport": "MLB"
+    },
+    {
+        "team": "Atlanta Braves",
+        "location": [
+            33.8910646,
+            -84.4684498
+        ],
+        "address": "755 Battery Ave SE, Atlanta, GA 30339, USA",
+        "arena": "Truist Park",
+        "sport": "MLB"
+    },
+    {
+        "team": "Chicago Cubs",
+        "location": [
+            41.9484384,
+            -87.6553327
+        ],
+        "address": "1060 W Addison St, Chicago, IL 60613, USA",
+        "arena": "Wrigley Field",
+        "sport": "MLB"
+    },
+    {
+        "team": "New York Yankees",
+        "location": [
+            40.8296426,
+            -73.9261745
+        ],
+        "address": "1 E 161 St, Bronx, NY 10451, USA",
+        "arena": "Yankee Stadium",
+        "sport": "MLB"
+    },
+    {
+        "team": "Dallas Mavericks",
+        "location": [
+            32.7903908,
+            -96.8102547
+        ],
+        "address": "2500 Victory Ave, Dallas, TX 75219, USA",
+        "arena": "American Airlines Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Orlando Magic",
+        "location": [
+            28.5392214,
+            -81.3838535
+        ],
+        "address": "400 W Church St Suite 200, Orlando, FL 32801, USA",
+        "arena": "Amway Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "San Antonio Spurs",
+        "location": [
+            29.4270201,
+            -98.43746519999999
+        ],
+        "address": "1 AT&T Center Parkway, San Antonio, TX 78219, USA",
+        "arena": "AT&T Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Denver Nuggets",
+        "location": [
+            39.7486565,
+            -105.0076028
+        ],
+        "address": "1000 Chopper Cir, Denver, CO 80204, USA",
+        "arena": "Ball Arena",
+        "sport": "NBA"
+    },
+    {
+        "team": "Brooklyn Nets",
+        "location": [
+            40.6826465,
+            -73.97541559999999
+        ],
+        "address": "620 Atlantic Ave, Brooklyn, NY 11217, USA",
+        "arena": "Barclays Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Washington Wizards",
+        "location": [
+            38.8981675,
+            -77.02085679999999
+        ],
+        "address": "601 F St NW, Washington, DC 20004, USA",
+        "arena": "Capital One Arena",
+        "sport": "NBA"
+    },
+    {
+        "team": "Golden State Warriors",
+        "location": [
+            37.7680466,
+            -122.387715
+        ],
+        "address": "1 Warriors Way, San Francisco, CA 94158, USA",
+        "arena": "Chase Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Memphis Grizzlies",
+        "location": [
+            35.1381418,
+            -90.0505864
+        ],
+        "address": "191 Beale St, Memphis, TN 38103, USA",
+        "arena": "FedExForum",
+        "sport": "NBA"
+    },
+    {
+        "team": "Milwaukee Bucks",
+        "location": [
+            43.0450802,
+            -87.9173862
+        ],
+        "address": "1111 Vel R. Phillips Ave, Milwaukee, WI 53203, USA",
+        "arena": "Fiserv Forum",
+        "sport": "NBA"
+    },
+    {
+        "team": "Phoenix Suns",
+        "location": [
+            33.445737,
+            -112.0712003
+        ],
+        "address": "201 E Jefferson St, Phoenix, AZ 85004, USA",
+        "arena": "Footprint Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Miami Heat",
+        "location": [
+            25.7814014,
+            -80.18696899999999
+        ],
+        "address": "601 Biscayne Blvd, Miami, FL 33132, USA",
+        "arena": "FTX Arena",
+        "sport": "NBA"
+    },
+    {
+        "team": "Indiana Pacers",
+        "location": [
+            39.7640434,
+            -86.1555367
+        ],
+        "address": "125 S Pennsylvania St, Indianapolis, IN 46204, USA",
+        "arena": "Gainbridge Fieldhouse",
+        "sport": "NBA"
+    },
+    {
+        "team": "Sacramento Kings",
+        "location": [
+            38.5802045,
+            -121.4996602
+        ],
+        "address": "500 David J Stern Walk, Sacramento, CA 95814, USA",
+        "arena": "Golden 1 Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Detroit Pistons",
+        "location": [
+            42.3411026,
+            -83.0552673
+        ],
+        "address": "2645 Woodward Ave, Detroit, MI 48201, USA",
+        "arena": "Little Caesars Arena",
+        "sport": "NBA"
+    },
+    {
+        "team": "New York Knicks",
+        "location": [
+            40.7505045,
+            -73.9934387
+        ],
+        "address": "4 Pennsylvania Plaza, New York, NY 10001, USA",
+        "arena": "Madison Square Garden",
+        "sport": "NBA"
+    },
+    {
+        "team": "Portland Trail Blazers",
+        "location": [
+            45.53156509999999,
+            -122.6668423
+        ],
+        "address": "1 N Center Ct St, Portland, OR 97227, USA",
+        "arena": "Moda Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Oklahoma City Thunder",
+        "location": [
+            35.4634247,
+            -97.5151138
+        ],
+        "address": "100 W Reno Ave, Oklahoma City, OK 73102, USA",
+        "arena": "Paycom Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Cleveland Cavaliers",
+        "location": [
+            41.4965474,
+            -81.68805739999999
+        ],
+        "address": "1 Center Court, Cleveland, OH 44115, USA",
+        "arena": "Rocket Mortgage FieldHouse",
+        "sport": "NBA"
+    },
+    {
+        "team": "Toronto Raptors",
+        "location": [
+            43.6434661,
+            -79.3790989
+        ],
+        "address": "40 Bay St., Toronto, ON M5J 2X2, Canada",
+        "arena": "Scotiabank Arena",
+        "sport": "NBA"
+    },
+    {
+        "team": "New Orleans Pelicans",
+        "location": [
+            29.9490351,
+            -90.08205679999999
+        ],
+        "address": "1501 Dave Dixon Dr, New Orleans, LA 70113, USA",
+        "arena": "Smoothie King Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Charlotte Hornets",
+        "location": [
+            35.2251519,
+            -80.8393911
+        ],
+        "address": "333 E Trade St, Charlotte, NC 28202, USA",
+        "arena": "Spectrum Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Los Angeles Clippers",
+        "location": [
+            34.0430175,
+            -118.2672541
+        ],
+        "address": "1111 S Figueroa St, Los Angeles, CA 90015, USA",
+        "arena": "Staples Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Los Angeles Lakers",
+        "location": [
+            34.0430175,
+            -118.2672541
+        ],
+        "address": "1111 S Figueroa St, Los Angeles, CA 90015, USA",
+        "arena": "Staples Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Atlanta Hawks",
+        "location": [
+            33.7572891,
+            -84.3963244
+        ],
+        "address": "1 State Farm Dr, Atlanta, GA 30303, USA",
+        "arena": "State Farm Arena",
+        "sport": "NBA"
+    },
+    {
+        "team": "Minnesota Timberwolves",
+        "location": [
+            44.9794633,
+            -93.2760947
+        ],
+        "address": "600 N 1st Ave, Minneapolis, MN 55403, USA",
+        "arena": "Target Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Boston Celtics",
+        "location": [
+            42.366198,
+            -71.062146
+        ],
+        "address": "100 Legends Way, Boston, MA 02114, USA",
+        "arena": "TD Garden",
+        "sport": "NBA"
+    },
+    {
+        "team": "Houston Rockets",
+        "location": [
+            29.75076039999999,
+            -95.3621005
+        ],
+        "address": "1510 Polk St, Houston, TX 77002, USA",
+        "arena": "Toyota Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Chicago Bulls",
+        "location": [
+            41.8806908,
+            -87.6741759
+        ],
+        "address": "1901 W Madison St, Chicago, IL 60612, USA",
+        "arena": "United Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Utah Jazz",
+        "location": [
+            40.7682681,
+            -111.9010874
+        ],
+        "address": "301 S Temple, Salt Lake City, UT 84101, USA",
+        "arena": "Vivint Arena",
+        "sport": "NBA"
+    },
+    {
+        "team": "Philadelphia 76ers",
+        "location": [
+            39.9012015,
+            -75.17197949999999
+        ],
+        "address": "3601 S Broad St, Philadelphia, PA 19148, USA",
+        "arena": "Wells Fargo Center",
+        "sport": "NBA"
+    },
+    {
+        "team": "Minnesota United FC",
+        "location": [
+            44.9522761,
+            -93.16464839999999
+        ],
+        "address": "400 Snelling Ave N, St Paul, MN 55104, USA",
+        "arena": "Allianz Field",
+        "sport": "MLS"
+    },
+    {
+        "team": "D.C. United",
+        "location": [
+            38.8689313,
+            -77.012926
+        ],
+        "address": "100 Potomac Ave SW, Washington, DC 20024, USA",
+        "arena": "Audi Field",
+        "sport": "MLS"
+    },
+    {
+        "team": "Los Angeles FC",
+        "location": [
+            34.0126382,
+            -118.2841482
+        ],
+        "address": "3939 S Figueroa St, Los Angeles, CA 90037, USA",
+        "arena": "Banc of California Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "Houston Dynamo FC",
+        "location": [
+            29.7521689,
+            -95.3522816
+        ],
+        "address": "2200 Texas Ave, Houston, TX 77003, USA",
+        "arena": "BBVA Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "Vancouver Whitecaps FC",
+        "location": [
+            49.27675,
+            -123.111999
+        ],
+        "address": "777 Pacific Blvd, Vancouver, BC V6B 4Y8, Canada",
+        "arena": "BC Place",
+        "sport": "MLS"
+    },
+    {
+        "team": "Toronto FC",
+        "location": [
+            43.6331702,
+            -79.4186162
+        ],
+        "address": "170 Princes' Blvd, Toronto, ON M6K 3C3, Canada",
+        "arena": "BMO Field",
+        "sport": "MLS"
+    },
+    {
+        "team": "Sporting Kansas City",
+        "location": [
+            39.1215929,
+            -94.82317669999999
+        ],
+        "address": "1 Sporting Way, Kansas City, KS 66111, USA",
+        "arena": "Children's Mercy Park",
+        "sport": "MLS"
+    },
+    {
+        "team": "Colorado Rapids",
+        "location": [
+            39.8049583,
+            -104.9002304
+        ],
+        "address": "6000 Victory Way, Commerce City, CO 80022, USA",
+        "arena": "Dick's Sporting Goods Park",
+        "sport": "MLS"
+    },
+    {
+        "team": "LA Galaxy",
+        "location": [
+            33.8643777,
+            -118.2611426
+        ],
+        "address": "18400 S Avalon Blvd, Carson, CA 90746, USA",
+        "arena": "Dignity Health Sports Park",
+        "sport": "MLS"
+    },
+    {
+        "team": "Inter Miami CF",
+        "location": [
+            26.1931127,
+            -80.1610244
+        ],
+        "address": "1350 NW 55th St, Fort Lauderdale, FL 33309, USA",
+        "arena": "DRV PNK Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "Orlando City SC",
+        "location": [
+            28.5411828,
+            -81.3890693
+        ],
+        "address": "655 W Church St, Orlando, FL 32805, USA",
+        "arena": "Exploria Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "New England Revolution",
+        "location": [
+            42.0909458,
+            -71.2643465
+        ],
+        "address": "1 Patriot Pl, Foxborough, MA 02035, USA",
+        "arena": "Gillette Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "Columbus Crew",
+        "location": [
+            39.968464,
+            -83.0170957
+        ],
+        "address": "96 Columbus Crew Way, Columbus, OH 43215, USA",
+        "arena": "Lower.com Field",
+        "sport": "MLS"
+    },
+    {
+        "team": "Seattle Sounders FC",
+        "location": [
+            47.5951518,
+            -122.3316394
+        ],
+        "address": "800 Occidental Ave S, Seattle, WA 98134, USA",
+        "arena": "Lumen Field",
+        "sport": "MLS"
+    },
+    {
+        "team": "Atlanta United FC",
+        "location": [
+            33.7555194,
+            -84.4008389
+        ],
+        "address": "1 AMB Dr NW, Atlanta, GA 30313, USA",
+        "arena": "Mercedes-Benz Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "Nashville SC",
+        "location": [
+            36.166479,
+            -86.77128979999999
+        ],
+        "address": "1 Titans Way, Nashville, TN 37213, USA",
+        "arena": "Nissan Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "San Jose Earthquakes",
+        "location": [
+            37.3511366,
+            -121.9246518
+        ],
+        "address": "1123 Coleman Ave, San Jose, CA 95110, USA",
+        "arena": "PayPal Park",
+        "sport": "MLS"
+    },
+    {
+        "team": "Portland Timbers",
+        "location": [
+            45.5215389,
+            -122.6918444
+        ],
+        "address": "1844 SW Morrison St, Portland, OR 97205, USA",
+        "arena": "Providence Park",
+        "sport": "MLS"
+    },
+    {
+        "team": "Austin FC",
+        "location": [
+            30.3877461,
+            -97.7193751
+        ],
+        "address": "10414 Mc Kalla Pl, Austin, TX 78758, USA",
+        "arena": "Q2 Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "New York Red Bulls",
+        "location": [
+            40.7368436,
+            -74.1502355
+        ],
+        "address": "600 Cape May St, Harrison, NJ 07029, USA",
+        "arena": "Red Bull Arena",
+        "sport": "MLS"
+    },
+    {
+        "team": "Real Salt Lake",
+        "location": [
+            40.5829301,
+            -111.8933611
+        ],
+        "address": "9256 S, State St, Sandy, UT 84070, USA",
+        "arena": "Rio Tinto Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "CF Montr\u00e9al",
+        "location": [
+            45.5622947,
+            -73.55303239999999
+        ],
+        "address": "4750 Rue Sherbrooke E, Montr\u00e9al, QC H1V 3S8, Canada",
+        "arena": "Saputo Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "Chicago Fire FC",
+        "location": [
+            41.8623132,
+            -87.6166884
+        ],
+        "address": "1410 Special Olympics Dr, Chicago, IL 60605, USA",
+        "arena": "Soldier Field",
+        "sport": "MLS"
+    },
+    {
+        "team": "Philadelphia Union",
+        "location": [
+            39.8326877,
+            -75.3783948
+        ],
+        "address": "2501 Seaport Dr, Chester, PA 19013, USA",
+        "arena": "Subaru Park",
+        "sport": "MLS"
+    },
+    {
+        "team": "FC Dallas",
+        "location": [
+            33.1543199,
+            -96.8352278
+        ],
+        "address": "9200 World Cup Way, Frisco, TX 75033, USA",
+        "arena": "Toyota Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "FC Cincinnati",
+        "location": [
+            39.1110972,
+            -84.522255
+        ],
+        "address": "1501 Central Pkwy, Cincinnati, OH 45214, USA",
+        "arena": "TQL Stadium",
+        "sport": "MLS"
+    },
+    {
+        "team": "New York City FC",
+        "location": [
+            40.8296426,
+            -73.9261745
+        ],
+        "address": "1 E 161 St, Bronx, NY 10451, USA",
+        "arena": "Yankee Stadium",
+        "sport": "MLS"
+    },
+    {
+        "track": "Atlanta Motor Speedway",
+        "location": [
+            33.3859803,
+            -84.3163125
+        ],
+        "address": "1500 Tara Pl, Hampton, GA 30228, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Bristol Motor Speedway",
+        "location": [
+            36.515694,
+            -82.25696669999999
+        ],
+        "address": "151 Speedway Blvd, Bristol, TN 37620, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Charlotte Motor Speedway",
+        "location": [
+            35.351547,
+            -80.686551
+        ],
+        "address": "5555 Concord Pkwy S, Concord, NC 28027, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Circuit of the Americas",
+        "location": [
+            30.1345808,
+            -97.6358511
+        ],
+        "address": "9201 Circuit of the Americas Blvd, Austin, TX 78617, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Darlington Raceway",
+        "location": [
+            34.2973206,
+            -79.9051516
+        ],
+        "address": "1301 Harry Byrd Hwy, Darlington, SC 29532, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Daytona International Speedway",
+        "location": [
+            29.185169,
+            -81.070528
+        ],
+        "address": "1801 W International Speedway Blvd, Daytona Beach, FL 32114, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Dover International Speedway",
+        "location": [
+            39.1890414,
+            -75.5305751
+        ],
+        "address": "1131 N Dupont Hwy, Dover, DE 19901, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Homestead\u2013Miami Speedway",
+        "location": [
+            25.4538398,
+            -80.41310170000001
+        ],
+        "address": "One Ralph Sanchez, Speedway Blvd, Homestead, FL 33035, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Indianapolis Motor Speedway ",
+        "location": [
+            39.7953542,
+            -86.2353006
+        ],
+        "address": "4790 W 16th St, Indianapolis, IN 46222, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Kansas Speedway",
+        "location": [
+            39.1116714,
+            -94.827568
+        ],
+        "address": "400 Speedway Blvd, Kansas City, KS 66111, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Knoxville Raceway",
+        "location": [
+            41.3251342,
+            -93.10996999999999
+        ],
+        "address": "1000 N Lincoln St, Knoxville, IA 50138, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Las Vegas Motor Speedway",
+        "location": [
+            36.2722847,
+            -115.0102761
+        ],
+        "address": "7000 Las Vegas Blvd N, Las Vegas, NV 89115, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Martinsville Speedway",
+        "location": [
+            36.6340267,
+            -79.851677
+        ],
+        "address": "340 Speedway Rd, Ridgeway, VA 24148, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Michigan International Speedway",
+        "location": [
+            42.06788359999999,
+            -84.2448616
+        ],
+        "address": "12626 US-12, Brooklyn, MI 49230, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Mid-Ohio Sports Car Course",
+        "location": [
+            40.6890106,
+            -82.6360931
+        ],
+        "address": "7721 Steam Corners Rd, Lexington, OH 44904, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Nashville Superspeedway",
+        "location": [
+            36.04624500000001,
+            -86.41041
+        ],
+        "address": "4847-F McCrary Rd, Lebanon, TN 37090, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "New Hampshire Motor Speedway",
+        "location": [
+            43.36268,
+            -71.460573
+        ],
+        "address": "1122 NH-106, Loudon, NH 03307, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Phoenix Raceway",
+        "location": [
+            33.3750416,
+            -112.3111542
+        ],
+        "address": "7602 Jimmie Johnson Dr, Avondale, AZ 85323, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Pocono Raceway",
+        "location": [
+            41.0543442,
+            -75.511279
+        ],
+        "address": "1234 Long Pond Rd, Long Pond, PA 18334, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Richmond Raceway",
+        "location": [
+            37.5882835,
+            -77.41941829999999
+        ],
+        "address": "600 E Laburnum Ave, Richmond, VA 23222, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Road America",
+        "location": [
+            43.80545619999999,
+            -87.99172250000001
+        ],
+        "address": "N7390 WI-67, Plymouth, WI 53073, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Sonoma Raceway",
+        "location": [
+            38.1608724,
+            -122.4547052
+        ],
+        "address": "29355 Arnold Dr, Sonoma, CA 95476, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Talladega Superspeedway",
+        "location": [
+            33.5669742,
+            -86.0661253
+        ],
+        "address": "3366 Speedway Blvd, Lincoln, AL 35096, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Texas Motor Speedway",
+        "location": [
+            33.0373212,
+            -97.2821274
+        ],
+        "address": "3545 Lone Star Cir, Fort Worth, TX 76177, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "Watkins Glen International",
+        "location": [
+            42.3382811,
+            -76.9263577
+        ],
+        "address": "2790 County Route 16, Watkins Glen, NY 14891, USA",
+        "sport": "NASCAR"
+    },
+    {
+        "track": "World Wide Technology Raceway",
+        "location": [
+            38.6507543,
+            -90.1353549
+        ],
+        "address": "700 Raceway Blvd, Madison, IL 62060, USA",
+        "sport": "NASCAR"
+    }
+]
