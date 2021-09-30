@@ -7,7 +7,7 @@ Pages deployment:
 
 https://ksheekey.github.io/Stadium-Map/
 
-The goal here was to map the stadiums for the 5 major sports. Hockey(NHL), Football(NFL), Baseball(MLB), Soccer(MLS), and Basketball(NBA).
+The goal here was to map the stadiums for the 5 major sports. Hockey(NHL), Football(NFL), Baseball(MLB), Soccer(MLS), Basketball(NBA), and Nascar(NASCAR).
 
 They are all put together in one map with the ability to filter by the sports you want to view. You can even change the base layer of the map. Each has a tooltip with its team name, address, and arena name. 
 
@@ -22,6 +22,8 @@ MLB - https://en.wikipedia.org/wiki/List_of_current_Major_League_Baseball_stadiu
 MLS - https://en.wikipedia.org/wiki/List_of_Major_League_Soccer_stadiums
 
 NBA - https://en.wikipedia.org/wiki/List_of_National_Basketball_Association_arenas
+
+NASCAR - https://en.wikipedia.org/wiki/List_of_NASCAR_tracks
 
 After having the arena names, I did a Google API search on geo location of the arena names to pull the lat'lng and address for each arena in each sport.
 
@@ -41,5 +43,7 @@ Output was a list of dicitonaries. Dictionaires looked like this:
 ];
 
 After this went over and coded the map using Leaflet and Mapbox, while using D3 to call in the JSON file.
+
+
 
 Pandas ' D3 ' Mapbox ' Leaflet ' JavaScript ' HTML ' Google API ' Mapbox API ' CSS ' GitHub Pages
